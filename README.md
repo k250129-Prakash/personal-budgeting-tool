@@ -2,7 +2,7 @@
 
 Team Members
 - Prakash Thapa Magar
-- Bhusan KC
+- Bhushan KC
 - Ashish Neupane
  Description
 A web-based application to track income, expenses, and manage budgets.
